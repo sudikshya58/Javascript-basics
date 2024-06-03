@@ -1,0 +1,9 @@
+//higher order array method in js
+let user=[
+{
+id:1,name:"sudikshya",age:20},
+{id:2,name:"suprim",age:13},
+{id:3,name:"samu",age:19}
+
+];
+console.log(user);
